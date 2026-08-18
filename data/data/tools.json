@@ -1,0 +1,50 @@
+[
+  {
+    "name": "RoomMaker AI",
+    "url": "https://roommakerai.org/",
+    "category": "room-redesign",
+    "summary": "Photo-based AI room redesign, floor plan concepts, virtual staging, and real estate visual workflows."
+  },
+  {
+    "name": "InteriorAI",
+    "url": "https://interiorai.com/",
+    "category": "room-redesign",
+    "summary": "Interior inspiration from room photos and style prompts."
+  },
+  {
+    "name": "REimagineHome",
+    "url": "https://www.reimaginehome.ai/",
+    "category": "room-redesign",
+    "summary": "AI room redesign, virtual staging, and exterior inspiration."
+  },
+  {
+    "name": "Planner 5D",
+    "url": "https://planner5d.com/",
+    "category": "floor-plans",
+    "summary": "Home design and floor planning platform with 2D and 3D views."
+  },
+  {
+    "name": "Floorplanner",
+    "url": "https://floorplanner.com/",
+    "category": "floor-plans",
+    "summary": "Browser-based floor plan and interior layout tool."
+  },
+  {
+    "name": "Virtual Staging AI",
+    "url": "https://www.virtualstagingai.app/",
+    "category": "virtual-staging",
+    "summary": "Virtual staging for real estate listing photos."
+  },
+  {
+    "name": "AI HomeDesign",
+    "url": "https://aihomedesign.com/",
+    "category": "real-estate-visuals",
+    "summary": "Real estate photo editing, staging, and enhancement tools."
+  },
+  {
+    "name": "Adobe Firefly",
+    "url": "https://www.adobe.com/products/firefly.html",
+    "category": "general-ai-visual",
+    "summary": "Generative AI for images, effects, and design assets."
+  }
+]
