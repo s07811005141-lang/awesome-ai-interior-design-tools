@@ -76,6 +76,8 @@ Useful for agents, hosts, listing teams, and property marketers.
   workflows.
 - [Apply Design](https://www.applydesign.io/) - Virtual staging for property
   marketing images.
+- [EmptyRoom AI](https://emptyroomai.com/) - Virtual staging for agent listing
+  photos with portal import, per-room pricing, and free restages.
 
 ## Material, Furniture, And Renovation Previews
 
