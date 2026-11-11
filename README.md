@@ -38,6 +38,8 @@ styles, materials, layouts, or furniture directions.
   concepts and design iteration.
 - [RoomGPT](https://www.roomgpt.io/) - Lightweight room redesign previews from
   uploaded photos.
+- [RoomRedecor](https://roomredecor.com/) - Brush over furniture or decor in a
+  room photo and compare an AI-generated style with the original.
 - [Remodel AI](https://remodelai.app/) - Renovation visualization for rooms,
   exteriors, and materials.
 - [DecorMatters](https://www.decormatters.com/) - Interior design community and
