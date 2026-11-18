@@ -76,6 +76,8 @@ Useful for agents, hosts, listing teams, and property marketers.
   workflows.
 - [Apply Design](https://www.applydesign.io/) - Virtual staging for property
   marketing images.
+- [October](https://www.october-ai.com/) - iPhone app that guides a walk through each room and returns
+  finished listing photos, a walkthrough video and empty or staged versions of each room.
 
 ## Material, Furniture, And Renovation Previews
 
