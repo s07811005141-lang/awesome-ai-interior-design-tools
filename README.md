@@ -59,6 +59,8 @@ visualization.
   drawing tool.
 - [Archilogic](https://www.archilogic.com/) - Space data and floor plan tools
   for built-environment workflows.
+- [3DRoomDesign.ai](https://3droomdesign.ai/) - Create editable 2D plans,
+  convert floor plan images into 3D room layouts, and refine furniture placement.
 
 ## Virtual Staging And Real Estate Visuals
 
